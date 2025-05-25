@@ -1,5 +1,7 @@
 # Hi there, I'm Aniket Bawankar! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Aniket52kr&color=blue)
+
 ## 🚀 MERN Full-Stack Developer | Passionate About Crafting Scalable Web Applications
 
 ### 🔥 About Me
