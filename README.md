@@ -20,7 +20,7 @@ I'm a dedicated MERN (MongoDB, Express.js, React.js, Node.js) full-stack develop
 - **Languages:** C, Java, JavaScript (ES6+), TypeScript, SQL
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React.js, Redux, Material-UI
 - **Backend:** Node.js, Express.js, SQL, RESTful APIs, WebSockets
-- **Database:** MongoDB, Firebase
+- **Database:** MySQL, MongoDB, Firebase
 - **Authentication:** JWT, OAuth, Firebase Auth
 - **Deployment:** Vercel, Render, Netlify
 - **Version Control:** Git, GitHub
