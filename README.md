@@ -5,7 +5,7 @@
 ## 🚀 MERN Full-Stack Developer | Passionate About Crafting Scalable Web Applications
 
 ### 🔥 About Me
-I'm a dedicated MERN (MongoDB, Express.js, React.js, Node.js) full-stack developer with a passion for building seamless digital experiences. I specialize in developing robust, scalable, and high-performance web applications. My expertise includes front-end and back-end development, RESTful APIs, database management, authentication, and cloud deployments.
+I'm Aniket Bawankar, a MERN Full-Stack Developer currently pursuing my B.Tech in Computer Science and Engineering student at DY Patil University, Pune. I'm passionate about crafting seamless and impactful digital experiences. I specialize in building robust, scalable, and high-performance web applications, with expertise spanning the entire development stack — from responsive front-end interfaces to efficient back-end systems. My skill set includes RESTful API development, database management, authentication and security, and cloud-based deployments.
 
 ### 💡 What I Do
 - 🌐 **Full-Stack Development** – Creating end-to-end web applications using the MERN stack.
