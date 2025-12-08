@@ -30,6 +30,6 @@ I'm Aniket Bawankar, a MERN Full-Stack Developer currently pursuing my B.Tech in
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/aniketbawankar)
 - 📧 [Email](mailto:aniketbawankar2021@gmail.com)
-- 🌐 [Portfolio](https://aniket-bawankar-personal-portfolio.vercel.app/)
+- 🌐 [Portfolio](https://aniketbawankar.vercel.app/)
 
 🚀 **Let's build something amazing together!** ✨
