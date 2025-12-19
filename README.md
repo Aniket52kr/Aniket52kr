@@ -4,7 +4,7 @@
 
 ## 🚀 MERN Full-Stack Developer | Passionate About Crafting Scalable Web Applications
 
-###🔥 About Me
+### 🔥 About Me
 
 I’m Aniket Bawankar, a B.Tech graduate in Computer Science & Engineering (2025) from DY Patil University, Pune, and a MERN Full-Stack Developer with a strong focus on backend systems and cloud deployment.
 
