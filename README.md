@@ -36,8 +36,6 @@ I build scalable, secure, and production-ready web applications, working across 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/aniketbawankar)
 - 📧 [Email](mailto:aniketbawankar2021@gmail.com)
-- 🌐 [Portfolio](https://aniketbawankar.vercel.app/)
-
 
 🚀 **Open to Full-Time Software Engineer / MERN / Backend Roles**  
 ✨ **Let’s build something amazing together!**
