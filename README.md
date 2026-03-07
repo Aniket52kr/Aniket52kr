@@ -8,9 +8,9 @@ I’m **Aniket Bawankar**, a **B.Tech Computer Science & Engineering graduate (2
 
 I enjoy designing and building **production-grade backend services, scalable APIs, and distributed systems** that power real-world applications. My work focuses on **system design, performance optimization, reliability, and clean architecture**.
 
-I have experience developing **microservices-based applications, secure authentication systems, event-driven architectures, and containerized deployments** using modern backend technologies.
+I actively build and experiment with **full-stack and backend-heavy projects**, exploring areas like **microservices architecture, real-time systems, and cloud-native deployments** while continuously improving my understanding of **scalable system design and modern backend infrastructure**.
 
-🚀 Currently seeking **Software Development Engineer (SDE) / Backend Engineer** opportunities where I can contribute to building **high-impact products at scale**.
+🚀 **Currently seeking Software Development Engineer (SDE) / Backend Engineer opportunities** where I can contribute to building **high-impact products at scale**.
 
 ---
 
