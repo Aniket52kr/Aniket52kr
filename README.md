@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aniket52kr&color=blue)
 
-## Software Development Engineer | Backend Engineering | Scalable Systems
+## Software Engineer | Backend Engineer
 
 I’m **Aniket Bawankar**, a **B.Tech Computer Science & Engineering graduate (2025)** from **DY Patil University, Pune**, with a strong focus on **backend engineering, scalable systems, and product development**.
 
