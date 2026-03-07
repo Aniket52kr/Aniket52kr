@@ -67,8 +67,12 @@ I have experience developing **microservices-based applications, secure authenti
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aniket52kr&show_icons=true&theme=github_dark_dimmed&hide_border=true" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aniket52kr&layout=compact&theme=github_dark_dimmed&hide_border=true" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aniket52kr&show_icons=true&theme=github_dark_dimmed&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aniket52kr&layout=compact&theme=github_dark_dimmed&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aniket52kr&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
 ---
