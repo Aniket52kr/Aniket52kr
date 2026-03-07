@@ -1,41 +1,76 @@
-# Hi there, I'm Aniket Bawankar! 👋
+# Hi there, I'm Aniket Bawankar 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aniket52kr&color=blue)
 
-## 🚀 MERN Full-Stack Developer | Passionate About Crafting Scalable Web Applications
+## Software Development Engineer | Backend & Distributed Systems
 
-### 🔥 About Me
+I’m **Aniket Bawankar**, a **B.Tech Computer Science & Engineering graduate (2025)** from **DY Patil University, Pune**, with a strong focus on **backend engineering, scalable systems, and product development**.
 
-I’m **Aniket Bawankar**, a B.Tech Computer Engineering graduate (2025) from **DY Patil University, Pune**, and a passionate **Backend-focused MERN Full-Stack Developer**.
+I enjoy designing and building **production-grade backend services, scalable APIs, and distributed systems** that power real-world applications. My work focuses on **system design, performance optimization, reliability, and clean architecture**.
 
-I specialize in building **scalable and high-performance backend systems, secure APIs, and production-ready web applications** using technologies like **Node.js, Express.js, React, MongoDB, and Docker**.
+I have experience developing **microservices-based applications, secure authentication systems, event-driven architectures, and containerized deployments** using modern backend technologies.
 
-Currently working as a **Backend Developer Intern**, where I design **scalable microservices architectures, implement secure authentication systems, and deploy containerized applications on AWS**.
+🚀 Currently seeking **Software Development Engineer (SDE) / Backend Engineer** opportunities where I can contribute to building **high-impact products at scale**.
 
-I enjoy solving real-world problems, optimizing performance, and building systems that can **scale efficiently from development to production**.
+---
 
+# 💻 Tech Stack
 
-### 💡 What I Do
-- 🌐 **Full-Stack Development** – Building end-to-end web applications using the MERN stack  
-- 🎨 **Frontend Development** – Designing intuitive, responsive UIs with React.js  
-- 🛠️ **Backend Development** – Developing scalable RESTful APIs using Node.js & Express.js  
-- 💾 **Database Management** – Efficiently managing MongoDB and MySQL databases  
-- 🔐 **Authentication & Security** – Implementing JWT, OAuth, and role-based access control  
-- ☁️ **Cloud & Deployment** – Deploying applications on AWS, Vercel, Render, and Netlify  
-- 🐳 **Containerization & Web Servers** – Dockerizing apps and serving them via Nginx  
-- ⚙️ **CI/CD & Automation** – Automating builds and deployments using GitHub Actions  
-- 📈 **Performance Optimization** – Writing clean, efficient, and scalable code  
+### Languages
+- Java  
+- JavaScript  
+- TypeScript  
+- SQL  
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Java, JavaScript, TypeScript, SQL  
-- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, React.js, Redux, Material-UI  
-- **Backend:** Node.js, Express.js, REST APIs, Microservices, Apache Kafka, Socket.io  
-- **Database:** MongoDB, MySQL
-- **Authentication:** JWT, OAuth, Firebase Auth  
-- **Deployment & DevOps:** Docker, Nginx, AWS, GitHub Actions, Vercel, Render, Netlify  
-- **Version Control:** Git, GitHub  
-- **Testing & Tools:** Postman, Hoppscotch  
+### Backend
+- Node.js  
+- Express.js  
+- REST APIs  
+- Microservices Architecture  
+- Apache Kafka  
+- Socket.io  
 
+### Frontend
+- React.js  
+- Redux  
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- Bootstrap  
+- Material UI  
+
+### Databases
+- MongoDB  
+- MySQL  
+
+### Authentication & Security
+- JWT Authentication  
+- OAuth  
+- Firebase Authentication  
+- Role-Based Access Control (RBAC)
+
+### DevOps & Cloud
+- Docker  
+- Nginx  
+- AWS  
+- GitHub Actions  
+- CI/CD Pipelines  
+
+### Tools
+- Git  
+- GitHub  
+- Postman  
+- Hoppscotch  
+
+---
+
+# 📊 GitHub Stats
+
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniket52kr&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket52kr&layout=compact&theme=tokyonight)
+
+---
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/aniketbawankar)
