@@ -74,6 +74,13 @@ I have experience developing **microservices-based applications, secure authenti
 
 ---
 
+# 📈 GitHub Activity
+
+![Aniket's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniket52kr&theme=github-dark)
+
+
+---
+
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/aniketbawankar)
 - 📧 [Email](mailto:aniketbawankar2021@gmail.com)
