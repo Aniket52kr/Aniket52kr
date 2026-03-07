@@ -6,9 +6,13 @@
 
 ### 🔥 About Me
 
-I’m Aniket Bawankar, a B.Tech graduate in Computer Science & Engineering (2025) from DY Patil University, Pune, and a MERN Full-Stack Developer with a strong focus on backend systems and cloud deployment.
+I’m **Aniket Bawankar**, a B.Tech Computer Engineering graduate (2025) from **DY Patil University, Pune**, and a passionate **Backend-focused MERN Full-Stack Developer**.
 
-I build scalable, secure, and production-ready web applications, working across RESTful APIs, databases, authentication, and DevOps pipelines using Node.js, React, Docker, Nginx, and AWS. I enjoy taking projects from idea to production and am actively seeking Full-Stack / Backend Software Engineer roles.
+I specialize in building **scalable and high-performance backend systems, secure APIs, and production-ready web applications** using technologies like **Node.js, Express.js, React, MongoDB, and Docker**.
+
+Currently working as a **Backend Developer Intern**, where I design **scalable microservices architectures, implement secure authentication systems, and deploy containerized applications on AWS**.
+
+I enjoy solving real-world problems, optimizing performance, and building systems that can **scale efficiently from development to production**.
 
 
 ### 💡 What I Do
@@ -23,10 +27,10 @@ I build scalable, secure, and production-ready web applications, working across 
 - 📈 **Performance Optimization** – Writing clean, efficient, and scalable code  
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** C, Java, JavaScript, TypeScript, SQL  
+- **Languages:** Java, JavaScript, TypeScript, SQL  
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, React.js, Redux, Material-UI  
-- **Backend:** Node.js, Express.js, RESTful APIs, WebSockets  
-- **Database:** MongoDB, MySQL, Firebase  
+- **Backend:** Node.js, Express.js, REST APIs, Microservices, Apache Kafka, Socket.io  
+- **Database:** MongoDB, MySQL
 - **Authentication:** JWT, OAuth, Firebase Auth  
 - **Deployment & DevOps:** Docker, Nginx, AWS, GitHub Actions, Vercel, Render, Netlify  
 - **Version Control:** Git, GitHub  
