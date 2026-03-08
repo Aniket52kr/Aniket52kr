@@ -4,11 +4,13 @@
 
 ## Software Engineer | Backend Engineer
 
+## About Me
+
 I’m **Aniket Bawankar**, a **B.Tech Computer Science & Engineering graduate (2025)** from **DY Patil University, Pune**, with a strong focus on **backend engineering, scalable systems, and product development**.
 
-I enjoy designing and building **production-grade backend services, scalable APIs, and distributed systems** that power real-world applications. My work focuses on **system design, performance optimization, reliability, and clean architecture**.
+I enjoy designing and building **production-grade backend services, scalable APIs, and distributed systems** that power real-world applications. My work focuses on **building scalable systems, performance optimization, reliability, and clean backend architecture**.
 
-I actively build and experiment with **full-stack and backend-heavy projects**, exploring areas like **microservices architecture, real-time systems, and cloud-native deployments** while continuously improving my understanding of **scalable system design and modern backend infrastructure**.
+I actively build and experiment with **full-stack and backend-heavy projects**, exploring areas like **microservices architecture, real-time systems, and cloud-native deployments** while continuously improving my understanding of **scalable backend infrastructure and modern development practices**.
 
 🚀 **Currently seeking Software Development Engineer (SDE) / Backend Engineer opportunities** where I can contribute to building **high-impact products at scale**.
 
