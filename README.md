@@ -28,9 +28,8 @@ I actively build and experiment with **full-stack and backend-heavy projects**, 
 - Node.js  
 - Express.js  
 - REST APIs  
-- Microservices Architecture  
-- Apache Kafka  
-- Socket.io  
+- Microservices Architecture   
+- Socket.io    
 
 ### Frontend
 - React.js  
@@ -44,6 +43,7 @@ I actively build and experiment with **full-stack and backend-heavy projects**, 
 ### Databases
 - MongoDB  
 - MySQL  
+- Redis  
 
 ### Authentication & Security
 - JWT Authentication  
@@ -54,9 +54,8 @@ I actively build and experiment with **full-stack and backend-heavy projects**, 
 ### DevOps & Cloud
 - Docker  
 - Nginx  
-- AWS  
-- GitHub Actions  
-- CI/CD Pipelines  
+- AWS EC2, S3
+- GitHub Actions   
 
 ### Tools
 - Git  
@@ -83,7 +82,6 @@ I actively build and experiment with **full-stack and backend-heavy projects**, 
 
 ![Aniket's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniket52kr&theme=github-dark)
 
-
 ---
 
 ### 📫 Let's Connect
@@ -92,4 +90,3 @@ I actively build and experiment with **full-stack and backend-heavy projects**, 
 
 🚀 **Open to Full-Time Software Engineer / MERN / Backend Roles**  
 ✨ **Let’s build something amazing together!**
-
