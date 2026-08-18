@@ -1,11 +1,9 @@
 # Hi there, I'm Aniket Bawankar 👋
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Aniket52kr&color=blue)
 
 ## Software Engineer | Backend Engineer
 
 ## About Me
-
 I’m **Aniket Bawankar**, a **B.Tech Computer Science & Engineering graduate (2025)** from **DY Patil University, Pune**, with a strong focus on **backend engineering, scalable systems, and product development**.
 
 I enjoy designing and building **production-grade backend services, scalable APIs, and distributed systems** that power real-world applications. My work focuses on **building scalable systems, performance optimization, reliability, and clean backend architecture**.
@@ -19,57 +17,57 @@ I actively build and experiment with **full-stack and backend-heavy projects**, 
 # 💻 Tech Stack
 
 ### Languages
-- Java  
-- JavaScript  
-- TypeScript  
-- SQL  
+- Java
+- JavaScript
+- TypeScript
+- SQL
 
 ### Backend
-- Node.js  
-- Express.js  
-- REST APIs  
-- Microservices Architecture   
-- Socket.io    
+- Node.js
+- Express.js
+- REST APIs
+- Microservices Architecture
+- Socket.io
 
 ### Frontend
-- React.js  
-- Redux  
-- HTML5  
-- CSS3  
-- Tailwind CSS  
-- Bootstrap  
-- Material UI  
+- React.js
+- Redux
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Material UI
 
 ### Databases
-- MongoDB  
-- MySQL  
-- Redis  
+- MongoDB
+- MySQL
+- Redis
 
 ### Authentication & Security
-- JWT Authentication  
-- OAuth  
-- Firebase Authentication  
+- JWT Authentication
+- OAuth
+- Firebase Authentication
 - Role-Based Access Control (RBAC)
 
 ### DevOps & Cloud
-- Docker  
-- Nginx  
+- Docker
+- Nginx
 - AWS EC2, S3
-- GitHub Actions   
+- GitHub Actions
 
 ### Tools
-- Git  
-- GitHub  
-- Postman  
-- Hoppscotch  
+- Git
+- GitHub
+- Postman
+- Hoppscotch
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aniket52kr&show_icons=true&theme=github_dark_dimmed&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aniket52kr&layout=compact&theme=github_dark_dimmed&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniket52kr&show_icons=true&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket52kr&layout=compact&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
@@ -88,5 +86,5 @@ I actively build and experiment with **full-stack and backend-heavy projects**, 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aniketbawankar)
 - 📧 [Email](mailto:aniketbawankar2021@gmail.com)
 
-🚀 **Open to Full-Time Software Engineer / MERN / Backend Roles**  
-✨ **Let’s build something amazing together!**
+🚀 **Open to Full-Time Software Engineer / MERN / Backend Roles**
+✨ **Let's build something amazing together!**
