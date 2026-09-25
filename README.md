@@ -79,7 +79,7 @@ I actively build and experiment with **full-stack and backend-heavy projects**, 
 # 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket52kr&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph-eight-omega.vercel.app/graph?username=Aniket52kr&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
