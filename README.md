@@ -76,9 +76,11 @@ I actively build and experiment with **full-stack and backend-heavy projects**, 
 
 ---
 
-# 📈 GitHub Activity
+# 🏆 GitHub Trophies
 
-![Aniket's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniket52kr&theme=github-dark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aniket52kr&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
