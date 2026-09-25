@@ -76,10 +76,10 @@ I actively build and experiment with **full-stack and backend-heavy projects**, 
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aniket52kr&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket52kr&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
