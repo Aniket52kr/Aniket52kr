@@ -4,13 +4,15 @@
 ## Software Engineer | Backend Engineer
 
 ## About Me
-I’m **Aniket Bawankar**, a **B.Tech Computer Science & Engineering graduate (2025)** from **DY Patil University, Pune**, with a strong focus on **backend engineering, scalable systems, and product development**.
+I'm a **Backend Software Engineer with 1 year of experience** designing, building, and deploying scalable backend systems using **Node.js, Express.js, and the MERN stack**. I specialize in **secure REST APIs, real-time applications, distributed systems, authentication & authorization, database design, and cloud-native architectures**.
 
-I enjoy designing and building **production-grade backend services, scalable APIs, and distributed systems** that power real-world applications. My work focuses on **building scalable systems, performance optimization, reliability, and clean backend architecture**.
+Most recently, I worked as an **SDE – Backend (Freelancer)** at **Rasika Space**, where I contributed to **Hospilink**, a healthcare management platform. I architected secure backend services, developed a duty assignment workflow with **10+ state transitions**, and implemented **geofence-based OTP verification, real-time GPS tracking, and OCR-powered document processing** using Google Cloud Vision and AWS S3. I also built **Redis-backed session management with RBAC** and deployed containerized applications on **AWS ECS Fargate** through automated CI/CD pipelines.
 
-I actively build and experiment with **full-stack and backend-heavy projects**, exploring areas like **microservices architecture, real-time systems, and cloud-native deployments** while continuously improving my understanding of **scalable backend infrastructure and modern development practices**.
+Beyond my professional experience, I've built end-to-end applications including an **AI-powered recruitment platform**, an **EdTech learning platform**, and a **professional networking platform**. These projects strengthened my expertise in scalable system design, cloud deployment, payment integration, real-time application development, and secure software engineering.
 
-🚀 **Currently seeking Software Development Engineer (SDE) / Backend Engineer opportunities** where I can contribute to building **high-impact products at scale**.
+I enjoy solving complex engineering challenges, designing scalable systems, and building software that delivers real-world impact.
+
+🚀 **Currently seeking Software Development Engineer (Backend/Full-Stack) opportunities** where I can contribute to high-impact products while continuously learning and growing as a software engineer.
 
 ---
 
